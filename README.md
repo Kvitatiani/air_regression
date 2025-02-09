@@ -1,4 +1,4 @@
-# **Air Quality Regression Project **🌿
+# Air Quality Regression Project🌿
 
 This project focuses on predicting air pollutant levels using sensor data collected over a year in a polluted area of an Italian city. The dataset contains sensor readings and reference values for pollutants like CO, Benzene, and NOx, offering a great opportunity to explore regression techniques.  
 
