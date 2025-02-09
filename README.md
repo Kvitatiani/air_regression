@@ -33,19 +33,20 @@ Data Set Information: The dataset contains 9358 instances of hourly averaged res
 
 Attribute Information:
 
-Date (DD/MM/YYYY)
-Time (HH.MM.SS)
-True hourly averaged concentration CO in mg/m^3 (reference analyzer)
-PT08.S1 (tin oxide) hourly averaged sensor response (nominally CO targeted)
-True hourly averaged overall Non Metanic HydroCarbons concentration in microg/m^3 (reference analyzer)
-True hourly averaged Benzene concentration in microg/m^3 (reference analyzer)
-PT08.S2 (titania) hourly averaged sensor response (nominally NMHC targeted)
-True hourly averaged NOx concentration in ppb (reference analyzer)
-PT08.S3 (tungsten oxide) hourly averaged sensor response (nominally NOx targeted)
-True hourly averaged NO2 concentration in microg/m^3 (reference analyzer)
-PT08.S4 (tungsten oxide) hourly averaged sensor response (nominally NO2 targeted)
-PT08.S5 (indium oxide) hourly averaged sensor response (nominally O3 targeted)
-Temperature in Â°C
-Relative Humidity (%)
-AH Absolute Humidity
+* Date (DD/MM/YYYY)
+* Time (HH.MM.SS)
+* True hourly averaged concentration CO in mg/m^3 (reference analyzer)
+* PT08.S1 (tin oxide) hourly averaged sensor response (nominally CO targeted)
+* True hourly averaged overall Non Metanic HydroCarbons concentration in microg/m^3 (reference analyzer)
+* True hourly averaged Benzene concentration in microg/m^3 (reference analyzer)
+* PT08.S2 (titania) hourly averaged sensor response (nominally NMHC targeted)
+* True hourly averaged NOx concentration in ppb (reference analyzer)
+* PT08.S3 (tungsten oxide) hourly averaged sensor response (nominally NOx targeted)
+* True hourly averaged NO2 concentration in microg/m^3 (reference analyzer)
+* PT08.S4 (tungsten oxide) hourly averaged sensor response (nominally NO2 targeted)
+* PT08.S5 (indium oxide) hourly averaged sensor response (nominally O3 targeted)
+* Temperature in Â°C
+* Relative Humidity (%)
+* AH Absolute Humidity
+
 Target - C6H6(GT) -200 indicates missing values
